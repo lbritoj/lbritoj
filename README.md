@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @lbritoj
-- 👀 I’m interested in no code aplications
-- 🌱 I’m currently learning no code
-- 💞️ I’m looking to collaborate on appsheet projects
-- 📫 How to reach me: @lbritoj
+- 👋 Hi, I’m Leo.
+- 🌱 I’m currently studying analysis and systems development
 
 <!---
 lbritoj/lbritoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
