@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Leo.
-- 🪖 Sargeant
-- 🎓 Business Management
-- 🌱 I’m currently studying analysis and systems development
+- 🎓 Business Management studying analysis and systems development
 - 🕹 Working on a project that will surprise widow's sons
 
 <!---
